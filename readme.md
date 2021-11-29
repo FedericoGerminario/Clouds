@@ -1,1 +1,1 @@
-EHEHEHEE
+Simple random generator application 
