@@ -1,1 +1,2 @@
-Simple random generator application 
+Simple random generator application
+Using AWS to host a simple api caller 
